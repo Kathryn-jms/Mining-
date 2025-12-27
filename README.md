@@ -1,2 +1,1 @@
-# Mining-
-Mining management system 
+
